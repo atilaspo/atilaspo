@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Sarabun', sans-serif;
+    
+}
+
+nav {
+    box-shadow: 0px 5px 6px grey;
+    height: 8vh;;
+    display: flex;
+    align-items: center;
+}
+
+#mainBox {
+    font-size: 24px;
+    cursor: pointer;
+    transition: all .5s;
+    margin-left: 20px;
+}
+
+.sidemenu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 0px;
+    background-color: #222;
+    z-index: 1;
+    padding-top: 100px;
+    overflow-x: hidden;
+    opacity: 1;
+    transition: all 0.5s;
+}
+
+.sidemenu a {
+    padding: 8px 8px 50px 64px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #999;
+    display: block;
+    transition: all 0.3s;
+}
+
+.sidemenu a:hover {
+    color: white;
+    transform: translateY(-2px);
+}
+
+.sidemenu .closeBtn {
+    position: absolute;
+    top: 0px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 32px;
+    transition: all 0.3s;
+    
+}
+
+.sidemenu .closeBtn:hover {
+    transform: translateY(-2px);
+}
+
+.active {
+    width: 300px;
+}
+
+.hero {
+    width: 100%;
+    margin: 0;
+    height: 100vh;
+    background: #222;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #605C3C, #222);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #605C3C, #222); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.about {
+    height: 300vh;
+    display: flex;
+}
+
+.about-title {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin: 0!important;
+}
+
+.about-pages {
+    width: 50%;
+}
+
+.about-pages div {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.about-pages div > p {
+    width: 80%;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.about-pages div:nth-child(1) {
+    background-color: rgb(56, 124,89);
+}
+
+.about-pages div:nth-child(2) {
+    background-color: rgb(129, 42,110);
+}
+
+.about-pages div:nth-child(3) {
+    background-color: rgb(31, 88,107);
+}
+
+footer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

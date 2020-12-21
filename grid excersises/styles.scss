@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: yellow;
+    padding: .5em 0 .5em 2em;
+    height: 8vh;
+
+    .logo{
+        flex: 1;
+    }
+    .menu {
+        display: flex;
+        justify-content: space-evenly;
+        flex: 1;
+        li{
+            color: black;
+            cursor: pointer;
+            &:hover {
+                color:white;
+            }
+        }
+    }
+}
+
+
+hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 70vh;
+    color: white;
+    h1{
+        text-transform: uppercase;
+    }
+}
+
+.bullets {
+    display: flex;
+    justify-content: space-around;
+    height: 30vh;
+    .columns {
+        width: 50%;
+        text-align: center;
+        align-self: center;
+    }
+}
+

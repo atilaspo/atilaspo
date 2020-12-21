@@ -1,0 +1,170 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 66px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+.top-margin-xlg {margin-top: 120px;}
+
+.top-margin-lg { margin-top: 60px;}
+
+.top-margin-md { margin-top: 30px;}
+
+.top-margin-sm { margin-top: 15px;}
+
+.btn {
+    font-size: 20px;
+    padding: 15px 26px;
+    min-width: 160px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.btn-light {
+    background-color: #ffffff;
+    color: #1a1a1a;
+    border: 2px solid #ffffff;
+}
+
+.btn ion-icon {
+    font-size: 20px;
+}
+
+section {
+    padding: 50px 0;
+}
+
+p {
+    font-size: 33px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .5);
+    min-height: 100px;
+}
+
+.nav-link {
+    color:#1a1a1a;
+}
+
+.navbar a {
+    color: black;
+}
+
+.logo-brand {
+    max-width: 50px;
+}
+
+.navbar-toggler {
+    font-size: 40px;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+#superHero::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: .6;
+    z-index: 0;
+}
+
+#superHero {
+    position: relative;
+}
+
+#superHero > * {
+    z-index: 10;
+    position: relative;
+}
+
+#superHero {
+    background-image: url('images/back6.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 90px;
+    min-height: 700px;
+    color:#ffffff;
+    align-items: center;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.hero-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container-diplomas {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-items: space-between;
+    align-items: center;
+}
+
+.portfolio-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+    border-radius: 5px;
+    width: 500px;
+    
+}
+
+.portfolio-container img {
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+}
+.portfolio-container:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.portfolio-details {
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    z-index: 9000;
+}
+
+.portfolio-details a h2, .portfolio-details a p {
+    color: #1a1a1a;
+}
+
+
+
+
+@media (max-width: 575.98px) { ... }
+    h1 {
+        font-size: 40px;
+        line-height: normal;
+    }
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+@media (min-width: 1200px) { ... }

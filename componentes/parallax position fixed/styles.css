@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 24px;
+    padding: 25px;
+    
+}
+
+.parallax {
+    background:url('./images/DSC_0455.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    color: white;
+    font-size: 5rem;
+    font-family: monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
