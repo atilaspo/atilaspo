@@ -14,8 +14,9 @@
 #### Connect with me:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atilaspo)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santiago-pablo-ortiz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg' alt='platzi' height='40'>](https://platzi.com/p/santiagoortiz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align="left">](https://github.com/atilaspo)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' align="left">](https://www.linkedin.com/in/santiago-pablo-ortiz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/platzi.svg' alt='platzi' height='40' align="left">](https://platzi.com/p/santiagoortiz/)  
 
+<br />
 <br />
 
 #### Languages and Tools:
