@@ -3,7 +3,7 @@
 #### I'm a Tech lover, Developer, and Musician
 
 - 📡 I just become a [CCNA]
-- 🌱  I’m currently learning Python, AWS services and Guitar
+- 🌱  I’m currently learning Python, AWS Fundamentals and Guitar
 - 💻  looking to get my first job in the IT sector
 - 🎯  Goals: Contribute with real projects
 - 📍   Fun fact: I love to freestyle and play guitar
