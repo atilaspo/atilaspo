@@ -4,7 +4,6 @@
 
 - 📡 I just become a [CCNA]
 - 🌱  I’m currently learning Python, AWS Fundamentals and Guitar
-- 💻  Looking to get my first job in the IT sector
 - 🎯  Goals: Contribute with real projects
 - 📍   Fun fact: I love freestyle rap and play guitar
 
