@@ -3,7 +3,7 @@
 #### I'm a Tech lover, Developer, and Musician
 
 - 📡 I just become a [CCNA]
-- 🌱  I’m currently learning Java, Spring and Guitar
+- 🌱  I’m currently learning Java, Spring, Go and Guitar
 - 🎯  Goals: Contribute with real projects
 - 📍   Fun fact: I love freestyle rap and play guitar
 
