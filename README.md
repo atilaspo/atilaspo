@@ -1,4 +1,4 @@
-## Hi there, I'm Santiago 👋
+## Hi there, I'm Santiago 👋🏽
 
 #### I'm a Tech lover, Developer, and Musician
 
