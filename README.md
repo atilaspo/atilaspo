@@ -1,6 +1,6 @@
 ## Hi there, I'm Santiago 👋🏽
 
-#### I'm a Tech lover, Developer, and Musician
+#### I'm a Tech lover, Software Developer, and Musician
 
 - 🇦🇺 I'm settled in Australia, Sydney
 - 📡 I've just become a [CCNA]
