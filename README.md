@@ -68,6 +68,4 @@
 </a>  
 </div>  
 
-<br/>  
-
 [CCNA]: https://www.youracclaim.com/badges/e0bcb574-ed50-443f-bf0d-9575a64216c2
