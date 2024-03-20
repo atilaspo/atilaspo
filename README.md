@@ -3,9 +3,11 @@
 #### I'm a Tech lover, Software Developer, and Musician
 
 - 🇦🇺 I'm settled in Australia, Sydney
-- 📡 I've just become a [CCNA]
-- 🌱 I'm currently studying for a Bachelor of information technology
-- 📍 Fun fact: I love freestyle rap and play futbol
+- 🌱 I'm about to finish a Bachelor of Information Technology - Cyber Security Specialisation at [Kent Institute Australia]
+- 🤓 I am proud to say that I have achieved [outstanding academic performance]
+- 📍 Fun fact: I love working out and playing futbol
+- 📡 I'm a [CCNA]
+- 👨‍💻 I worked as a Software Developer at [Mercadolibre] before moving to Australia 
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -69,3 +71,6 @@
 </div>  
 
 [CCNA]: https://www.youracclaim.com/badges/e0bcb574-ed50-443f-bf0d-9575a64216c2
+[Kent Institute Australia]: https://kent.edu.au/
+[outstanding academic performance]: https://kent.edu.au/student-academic-performance-awards/
+[Mercadolibre]: https://www.mercadolibre.com/
