@@ -3,7 +3,7 @@
 #### I'm a Tech lover, Software Developer, and Musician
 
 - 🇦🇺 I'm settled in Australia, Sydney
-- 🌱 I'm about to finish a Bachelor of Information Technology - Cyber Security Specialisation at [Kent Institute Australia]
+- 🌱 I am a recent graduate with a Bachelor's degree in Information Technology, specializing in Cyber Security
 - 🤓 I am proud to say that I have achieved [outstanding academic performance]
 - 📍 Fun fact: I love working out and playing futbol
 - 📡 I'm a [CCNA]
