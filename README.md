@@ -7,7 +7,7 @@
 - 🤓 I am proud to say that I have achieved [outstanding academic performance]
 - 📍 Fun fact: I love working out and playing futbol
 - 📡 I'm a [CCNA]
-- 👨‍💻 I worked as a Software Developer for two years at [Mercadolibre] before moving to Australia 
+- 👨‍💻 I worked as a Software Developer for two+ years at [Mercadolibre] before moving to Australia 
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
