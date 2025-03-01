@@ -5,9 +5,9 @@
 - 🇦🇺 I'm settled in Australia, Sydney
 - 🌱 I am a recent graduate with a Bachelor's degree in Information Technology, specializing in Cyber Security
 - 🤓 I am proud to say that I have achieved [outstanding academic performance]
-- 📍 Fun fact: I love working out and playing futbol
+- 👨‍💻 I worked as a Software Developer for two+ years at [Mercadolibre] before moving to Australia
 - 📡 I'm a [CCNA]
-- 👨‍💻 I worked as a Software Developer for two+ years at [Mercadolibre] before moving to Australia 
+- 📍 Fun fact: I love working out and playing futbol
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
